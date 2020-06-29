@@ -1,1 +1,1 @@
-{ { data } }
+window.xxx = {{data}}
